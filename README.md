@@ -1,10 +1,11 @@
-<h1 align="center">Welcome to Gestion_de_developpeurs 👋</h1>
-<p>
-</p>
+<h1 align="center">Software Developers Management 🧑‍💻</h1>
 
-## Show your support
+## Description
+This web application is developed from scratch using the Spring Boot Framework (J2EE) and Thymeleaf as a template engine
 
-Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+## Authors
+
+👤 **Iheb KILANI**
+
+👤 **Yosr Merchaoui**
